@@ -1,0 +1,14 @@
+{
+  "name": "task_dmitriy",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": " ",
+  "scripts": {
+    "task_1": "node ./task_1.js",
+    "task_2": "node ./task_2.js",
+    "task_3": "node ./task_3.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
